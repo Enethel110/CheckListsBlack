@@ -1,5 +1,5 @@
 ```markdown
-![Imagen](/screenshot.png)
+![Imagen]("https://github.com/Enethel110/CheckListsBlack/blob/main/screenshot.png")
 # 🛡️ CheckListsBlack
 
 **CheckListsBlack** es una herramienta de línea de comandos desarrollada en Python para verificar si una dirección IP está listada en múltiples listas negras (blacklists) de seguridad reconocidas, como Spamhaus, SORBS, Barracuda, entre otras.
